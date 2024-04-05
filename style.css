@@ -1,0 +1,33 @@
+* {
+    background-color: antiquewhite;
+}
+
+.elenco {
+    background-color: rgb(228, 175, 175);
+    border-radius: 20px;
+}
+
+p {
+    background-color: rgb(228, 175, 175);
+    font-size: 30px;
+}
+
+ul {
+    background-color: rgb(228, 175, 175);
+    border-radius: 20px;
+}
+
+li {
+    background-color: rgb(228, 175, 175);
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+body > div {
+    max-width: 736px;
+    margin-inline: auto;
+    padding: 40px;
+}
